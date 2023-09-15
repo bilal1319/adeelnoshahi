@@ -1,0 +1,29 @@
+body{background-color:black;
+}
+.table tr th{border:1px solid cyan;
+}
+.table tr td{border:1px solid cyan;
+}
+th{color:rgb(240, 13, 240);
+}
+td{color:rgb(255, 1, 1);
+}
+table{margin:auto;          
+}
+.position{position:relative;
+          text-align:center;
+}
+i{color:white;
+}
+p{color:white;
+}
+.position p{font-size:20px;color:cyan;
+}
+.section1{width: 200px;height:30px;margin:auto;background-color:rgb(255, 14, 14);}
+.border {
+    border: 3px solid black;
+    width: 300px;
+    height: 350px;
+    margin-top: 20px;
+    background-color: grey;
+}
